@@ -9,7 +9,7 @@
 
 - 📫 Você pode me encontrar em **Gabrielbore.Carvalho@gmail.com**
 
-- 📄 Tenho grande experiência com dados, sendo a pessoa responsável por ajudar a estruturar e construir todas as visualizações presentes hoje na empresa a qual trabalho. Conheça mais sobre meu trabalho em [www.linkedin.com/in/gabriel-rodrigues-bore-93b896230](www.linkedin.com/in/gabriel-rodrigues-bore-93b896230)
+- 📄 Tenho grande experiência com dados, sendo a pessoa responsável por ajudar a estruturar e endender entender os dados existentes, além de e construir todas as visualizações presentes hoje na empresa a qual trabalho. Conheça mais sobre meu trabalho em [www.linkedin.com/in/gabriel-rodrigues-bore-93b896230](www.linkedin.com/in/gabriel-rodrigues-bore-93b896230)
 
 
 <!-- ### Hi there 👋
