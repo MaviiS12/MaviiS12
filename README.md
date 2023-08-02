@@ -11,7 +11,7 @@
 
 - 📄 Tenho grande experiência com dados, sendo a pessoa responsável por ajudar a estruturar e construir todas as visualizações presentes hoje na empresa a qual trabalho. Conheça mais sobre meu trabalho em [www.linkedin.com/in/gabriel-rodrigues-bore-93b896230](www.linkedin.com/in/gabriel-rodrigues-bore-93b896230)
 
-- Conheça alguns dos meus projetos (https://github.com/MaviiS12/Portifolio-Dashboards)**
+- 📊 Conheça alguns dos meus projetos https://github.com/MaviiS12/Portifolio-Dashboards
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
